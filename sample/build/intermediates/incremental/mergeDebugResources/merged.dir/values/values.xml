@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="BACKGROUND">Background</string>
+    <string name="BACKGROUND_BRIGHTNESS_50">Background Brightness : 50</string>
+    <string name="BACKGROUND_CONTRAST_50">Background Contrast : 50</string>
+    <string name="BACKGROUND_ZOOM_50">Background Zoom : 50</string>
+    <string name="BRIGHTNESS_BACKGROUND">Brightness Background</string>
+    <string name="BRIGHTNESS_CAMERA">Brightness Camera</string>
+    <string name="CAMERA_BRIGHTNESS_50">Camera Brightness : 50</string>
+    <string name="CAMERA_CONTRAST_50">Camera Contrast : 50</string>
+    <string name="CAMERA_ZOOM_50">Camera Zoom : 50</string>
+    <string name="CHOOSE_FILTER">Choose Filter</string>
+    <string name="CONTRAST_BACKGROUND">Contrast Background</string>
+    <string name="CONTRAST_CAMERA">Contrast Camera</string>
+    <string name="COULD_NOT_OPEN_RESOURCE">Could not open resource:</string>
+    <string name="RESOURCE_NOT_FOUND">Resource not found: </string>
+    <string name="SAVE">Save</string>
+    <string name="SETTINGS">Settings</string>
+    <string name="ZOOM_CAMERA">Zoom Camera</string>
+    <string name="app_name">GPUImage Sample</string>
+    <string name="title_activity_activity_main">GPUImage Sample</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+    <style name="AppTheme.NoActionBar" parent="android:Theme.Light.NoTitleBar.Fullscreen"/>
+</resources>

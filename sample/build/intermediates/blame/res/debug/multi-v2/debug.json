@@ -1,0 +1,104 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/dedi/Downloads/Projectgreenscreen/sample/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/dedi/Downloads/Projectgreenscreen/library/build/intermediates/packaged_res/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,132",
+                        "endColumns": "76,67",
+                        "endOffsets": "127,195"
+                    },
+                    "to": {
+                        "startLines": "14,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "849,926",
+                        "endColumns": "76,67",
+                        "endOffsets": "921,989"
+                    }
+                },
+                {
+                    "source": "/Users/dedi/Downloads/Projectgreenscreen/sample/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "17,76",
+                        "endColumns": "58,92",
+                        "endOffsets": "71,164"
+                    },
+                    "to": {
+                        "startLines": "21,22",
+                        "startColumns": "4,4",
+                        "startOffsets": "1256,1314",
+                        "endColumns": "57,91",
+                        "endOffsets": "1309,1401"
+                    }
+                },
+                {
+                    "source": "/Users/dedi/Downloads/Projectgreenscreen/sample/res/values/strings.xml",
+                    "from": {
+                        "startLines": "7,11,10,12,18,15,8,13,9,4,17,14,5,6,16,2,3",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "283,541,465,621,1001,817,333,689,405,143,933,757,199,237,881,17,70",
+                        "endColumns": "49,79,75,67,71,63,71,67,59,55,67,59,37,45,51,52,72",
+                        "endOffsets": "328,616,536,684,1068,876,400,752,460,194,996,812,232,278,928,65,138"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,185,261,329,401,465,537,605,665,721,789,994,1032,1078,1130,1183",
+                        "endColumns": "49,79,75,67,71,63,71,67,59,55,67,59,37,45,51,52,72",
+                        "endOffsets": "100,180,256,324,396,460,532,600,660,716,784,844,1027,1073,1125,1178,1251"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/dedi/Downloads/Projectgreenscreen/sample/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/dedi/Downloads/Projectgreenscreen/sample/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "63",
+                        "endOffsets": "76"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "62",
+                        "endOffsets": "113"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/dedi/Downloads/Projectgreenscreen/sample/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/dedi/Downloads/Projectgreenscreen/sample/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "17,95",
+                        "endColumns": "77,97",
+                        "endOffsets": "90,188"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,132",
+                        "endColumns": "76,96",
+                        "endOffsets": "127,224"
+                    }
+                }
+            ]
+        }
+    ]
+}

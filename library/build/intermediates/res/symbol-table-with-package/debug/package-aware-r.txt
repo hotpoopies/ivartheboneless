@@ -1,0 +1,5 @@
+jp.co.cyberagent.android.gpuimage
+raw gpuimagechromakeyblendfilter_fragment_shader
+raw gpuimagetwoinputfilter_vertex_shader
+string COULD_NOT_OPEN_RESOURCE
+string RESOURCE_NOT_FOUND

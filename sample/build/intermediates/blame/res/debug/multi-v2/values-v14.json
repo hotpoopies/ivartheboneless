@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/dedi/Downloads/Projectgreenscreen/sample/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/Users/dedi/Downloads/Projectgreenscreen/sample/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "17,95",
+                        "endColumns": "77,97",
+                        "endOffsets": "90,188"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,132",
+                        "endColumns": "76,96",
+                        "endOffsets": "127,224"
+                    }
+                }
+            ]
+        }
+    ]
+}
